@@ -1,11 +1,11 @@
 <h1 align="center">Hi there! I'm Rajnesh Kumar <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"> </h1>
-<h2 align="center">Currently Learning Full-Stack Web Development from Masai School </h2>
-
+<h2 align="center">I am a Full-Stack Web Developer from India. </h2>
+<h2 align="center">Looking for opportunity, Open to work.</h2>
 ## <p style="display:flex; align-items: center"> <img src="https://img.icons8.com/color/48/000000/user-male-circle--v2.png"/> About Me </p> 
 
 - 👨‍💻 My Portfolio - **[Rajnesh Kumar](https://rajyadav0001.github.io/)**
 
-- 🌱 I’m currently learning **Full Stack - Web Development.**
+- 🌱 I’m a **Full Stack - Web Developer(MERN Stack).**
 
 - 📫 How to reach me **rajneshsbl9536@gmail.com**
 
@@ -24,7 +24,7 @@
    <a href="#"> <img src="https://img.shields.io/badge/-Nodejs-609857?style=for-the-badge&labelColor=black&logo=node.js&logoColor=609857" alt="Node JS"/> </a> &nbsp;
    <a href="#"> <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&labelColor=black&logo=git&logoColor=white" alt="Git"/> </a> &nbsp;
    <a href="#"> <img src="https://img.shields.io/badge/Netlify-00C7B7?style=for-the-badge&labelColor=black&logo=netlify&logoColor=white" alt="Netlify"/> </a> &nbsp;
-   <a href="#"> <img src="https://img.shields.io/badge/Python-14354C?style=for-the-badge&labelColor=black&logo=python&logoColor=white" alt="Python"/> </a> &nbsp;
+   <a href="#"> <img src="https://img.shields.io/badge/Python-14354C?style=for-the-badge&labelColor=black&logo=python&logoColor=white" alt="Java"/> </a> &nbsp;
 </p>
 
 <h3>📊 Github Stats</h3>
