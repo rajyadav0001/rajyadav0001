@@ -3,7 +3,7 @@
 <h3 align="center">Full Stack Developer with 8 months of hands on working experience in designing, developing, and implementing diverse applications and solutions across various technologies and programming languages.Looking for opportunities, Open to work. Eager to apply my extensive development knowledge and hands-on technical skills in a dynamic role as a Frontend Developer/Full Stack Developer.</h2>
  <p style="display:flex; align-items: center"> <img src="https://img.icons8.com/color/48/000000/user-male-circle--v2.png"/> About Me </p> 
 
-- 🔭 I’m currently as a - **[Frontend Developer(ASDE) at Pipli.ai]**
+- 🔭 I’m currently as a - **Frontend Developer(ASDE) at Pipli.ai**
 - 👨‍💻 My Portfolio - **[Rajnesh Kumar](https://rajyadav0001.github.io/)**
 
 - 🌱 I’m a **Full Stack - Web Developer(MERN Stack).**
