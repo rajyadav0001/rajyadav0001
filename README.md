@@ -1,6 +1,6 @@
 <h1 align="center">Hi <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">, I'm Rajnesh Kumar  </h1>
-<h3 align="center">I am a passionate Full-Stack Web Developer From India</h3>
-<h2 align="center">Full Stack Developer with 6 months of practical experience in designing, developing, and implementing diverse applications and solutions across various technologies and programming languages. Eager to apply my extensive development knowledge and hands-on technical skills in a dynamic role as a Full Stack Developer.</h2>
+<h2 align="center">I am a passionate Full-Stack Web Developer From India</h3>
+<h3 align="center">Full Stack Developer with 8 months of hands on working experience in designing, developing, and implementing diverse applications and solutions across various technologies and programming languages.Looking for opportunities, Open to work. Eager to apply my extensive development knowledge and hands-on technical skills in a dynamic role as a Frontend Developer/Full Stack Developer.</h2>
 ## <p style="display:flex; align-items: center"> <img src="https://img.icons8.com/color/48/000000/user-male-circle--v2.png"/> About Me </p> 
 
 - 👨‍💻 My Portfolio - **[Rajnesh Kumar](https://rajyadav0001.github.io/)**
