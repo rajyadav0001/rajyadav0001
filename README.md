@@ -8,7 +8,7 @@
 - 👨‍💻 My Portfolio - **[Rajnesh Kumar](https://rajyadav0001.github.io/)**
 - 📄Resume <a href="https://drive.google.com/file/d/12xuZSWR3C9fuMZZW87GwD8v0C5pmO3dj/view?usp=drive_link" target="_blank" onclick="window.open(this.href); return false;">Click Here</a>
 - 📫 How to reach me **rajneshsbl9536@gmail.com**
-- 💼Connect with me - **[LinkedIn](https://www.linkedin.com/in/rajnesh-kumar-89ba18226/)**
+- 💼Connect with me on - **[LinkedIn](https://www.linkedin.com/in/rajnesh-kumar-89ba18226/)**
  
  
 
