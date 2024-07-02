@@ -14,7 +14,7 @@
 
 <br/>
 
-## <p style="display:flex; align-items: center"> <img src="https://img.icons8.com/color/48/000000/source-code.png"/> Languages and Tools:</p> 
+## <p style="display:flex; align-items: center"> <img src="https://img.icons8.com/color/48/000000/source-code.png"/>Skills and Tools:</p> 
 
 <p>
 
