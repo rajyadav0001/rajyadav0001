@@ -6,7 +6,7 @@
 - 🌱 I’m a **Full Stack - Web Developer(MERN Stack).**
 - 🔭 I’m currently working as a - **Frontend Developer(ASDE) at Pipli.ai**
 - 👨‍💻 My Portfolio - **[Rajnesh Kumar](https://rajyadav0001.github.io/)**
-- 📄Resume <a href="https://drive.google.com/file/d/1HGNJgonYVP7xMjAyd4AxFuz20W2i8WIa/view?usp=drive_link" target="_blank" onclick="window.open(this.href); return false;">Click Here</a>
+- 📄Resume <a href="https://drive.google.com/file/d/1mEWmAisaEo3psXZmr2YeA0J-0GmnHVsJ/view?usp=sharing" target="_blank" onclick="window.open(this.href); return false;">Click Here</a>
 - 📫 How to reach me **rajneshsbl9536@gmail.com**
 - 💼Connect with me on - **[LinkedIn](https://www.linkedin.com/in/rajnesh-kumar-yadav/)**
  
